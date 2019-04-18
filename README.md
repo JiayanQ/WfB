@@ -1,4 +1,4 @@
 # WfB
 CVPR2019
 
-The code will be released soon.
+This is just a initial version, corresponding codes will be released soon.
